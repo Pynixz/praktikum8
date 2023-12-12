@@ -1,5 +1,17 @@
-## PRAKTIKUM *
+## PRAKTIKUM 8
 ### OOP
+## Diagram Class
+
+| Daftar Nilai Mahasiswa   |
+| ------------------------ |
+| - daftar_nilai: list     |
+| ------------------------ |
+| + **init**()             |
+| + tambah(nama, nilai)    |
+| + tampilkan()            |
+| + hapus(nama)            |
+| + ubah(nama, nilai)      |
+
 # Code program
 ``` py
 class Mahasiswa:

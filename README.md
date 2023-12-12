@@ -84,7 +84,8 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-**Penjelasan:**
+
+#    **Penjelasan:**
 1. **Kelas Mahasiswa:**
    - `__init__(self, nama, nilai)`: Konstruktor inisialisasi objek mahasiswa dengan atribut `nama` dan `nilai`.
 
@@ -106,7 +107,7 @@ if __name__ == "__main__":
    - Menampilkan daftar nilai setelah perubahan.
 
    ## Output
-   ![Screenshot 2023-12-12 145552](https://github.com/Pynixz/praktikum8/assets/147568964/3d9459a3-82ae-46b2-b64e-cd6819694f07)
+   ![Screenshot 2023-12-12 210016](https://github.com/Pynixz/praktikum8/assets/147568964/9cfecd41-b638-497f-925d-56166f6b0d4f)
 
    ## Flowchart
    ![Flowchart praktikum8](https://github.com/Pynixz/praktikum8/assets/147568964/d909514c-101d-412d-8948-a11fe26388bc)

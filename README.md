@@ -1,5 +1,6 @@
 ## PRAKTIKUM *
 ### OOP
+# Code program
 ``` py
 class Mahasiswa:
     def __init__(self, nama, nilai):
@@ -69,11 +70,9 @@ def main():
     print("======================================")
 
 if __name__ == "__main__":
-    main() ```
-
-
-**Penjelasan Kode:**
-
+    main()
+```
+**Penjelasan:**
 1. **Kelas Mahasiswa:**
    - `__init__(self, nama, nilai)`: Konstruktor inisialisasi objek mahasiswa dengan atribut `nama` dan `nilai`.
 
@@ -93,3 +92,9 @@ if __name__ == "__main__":
    - Menampilkan daftar nilai setelah penghapusan.
    - Mengubah nilai mahasiswa dengan nama "Ulhaq" menjadi 95.
    - Menampilkan daftar nilai setelah perubahan.
+
+   ## Output
+       ![Screenshot 2023-12-12 145552](https://github.com/Pynixz/praktikum8/assets/147568964/3d9459a3-82ae-46b2-b64e-cd6819694f07)
+
+   ## Flowchart
+       ![Flowchart praktikum8](https://github.com/Pynixz/praktikum8/assets/147568964/d909514c-101d-412d-8948-a11fe26388bc)
